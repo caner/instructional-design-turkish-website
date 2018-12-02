@@ -14,11 +14,3 @@
   link: /modeller/
   new_window: false
   highlight: false
-- name: Ana Sayfa
-  link: /
-  new_window: true
-  highlight: false
-- name: Sign Up
-  link: /
-  new_window: true
-  highlight: true
