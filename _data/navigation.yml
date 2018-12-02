@@ -1,20 +1,20 @@
-- name: Pricing
-  link: /pricing/
+- name: Kavramlar
+  link: /kavramlar/
   new_window: false
   highlight: false
-- name: Blog
-  link: /blog/
+- name: Teoriler
+  link: /teoriler/
   new_window: false
   highlight: false
-- name: About
-  link: /about/
+- name: Alanlar
+  link: /alanlar/
   new_window: false
   highlight: false
-- name: Contact
-  link: /contact/
+- name: Modeller
+  link: /modeller/
   new_window: false
   highlight: false
-- name: Login
+- name: Ana Sayfa
   link: /
   new_window: true
   highlight: false
